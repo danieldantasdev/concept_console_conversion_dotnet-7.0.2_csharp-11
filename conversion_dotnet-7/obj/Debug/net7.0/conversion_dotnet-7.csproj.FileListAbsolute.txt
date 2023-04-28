@@ -1,0 +1,15 @@
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/bin/Debug/net7.0/conversion_dotnet-7
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/bin/Debug/net7.0/conversion_dotnet-7.deps.json
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/bin/Debug/net7.0/conversion_dotnet-7.runtimeconfig.json
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/bin/Debug/net7.0/conversion_dotnet-7.dll
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/bin/Debug/net7.0/conversion_dotnet-7.pdb
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.csproj.AssemblyReference.cache
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.GeneratedMSBuildEditorConfig.editorconfig
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.AssemblyInfoInputs.cache
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.AssemblyInfo.cs
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.csproj.CoreCompileInputs.cache
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.dll
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/refint/conversion_dotnet-7.dll
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.pdb
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/conversion_dotnet-7.genruntimeconfig.cache
+/home/danieldantasdev/RiderProjects/conversion_dotnet-7/conversion_dotnet-7/obj/Debug/net7.0/ref/conversion_dotnet-7.dll
